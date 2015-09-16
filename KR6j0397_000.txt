@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂經曼殊室利菩薩五字心陀羅尼品
+#+DATE: 2015-08-30 20:31:37.728316
+#+PROPERTY: JUAN 0
