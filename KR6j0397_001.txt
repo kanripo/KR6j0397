@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:37.462613
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:03
 #+TITLE: 金剛頂經曼殊室利菩薩五字心陀羅尼品
 #+PROPERTY: CBETA_ID T20n1173
 #+PROPERTY: ID KR6j0397
